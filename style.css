@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("./img/back-1.png");
+    background-size: 100%;
+}
+a{
+    text-decoration: none;
+}
+header{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
+}
+.home-nav ul li, .button-Contact-us, .pv h1{
+    margin:10px;
+    padding: 0px 30px;
+}
+.home-nav ul li a{
+    color: #ffffff;
+}
+.pv h1{
+    color: #ffffff;
+    font-size: 20px;
+    margin-right: 50px;
+}
+.button-Contact-us button a{
+    background-color:#ffffff ;
+    color: #000000;
+    padding: 6px 15px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
