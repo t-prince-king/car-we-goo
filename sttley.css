@@ -48,7 +48,7 @@ body{
    background-image: url("./img/back-1.png");
    background-position:center;
    background-size:cover;
-   background: repeat 3px;;
+   background: repeat 3px;
 }
 
 .grid-container{
