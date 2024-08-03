@@ -66,3 +66,55 @@ body{
     width: 48%;
     height: auto;
 }
+.Gallery-wod h1{
+    display:flex;
+    justify-content: center;
+}
+.Gallery-wod h1{
+    color:#ffffff;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Gallery-wod p{
+    display:flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 15px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-gall{
+    
+    display: grid; 
+    grid-template-columns: auto auto auto;
+    column-gap: 24px;
+}
+#img-pu{
+  height: 350px;
+    padding: 10px;  
+    border-radius: 30px;
+    background-color: #ffffff;
+    background-size: 5px;
+    margin: 10px;
+}
+.content-imgs p{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    margin-top: 3px;
+}
+.uu{
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+}
+.uu button{
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    background-size: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+}
